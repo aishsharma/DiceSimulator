@@ -1,0 +1,3 @@
+import Dice
+
+Dice.roller()
